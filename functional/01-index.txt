@@ -1,0 +1,6 @@
+01-Lambda
+02-map
+03-filter
+04-reduce
+05-zip
+06-chain
